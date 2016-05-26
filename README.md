@@ -1,2 +1,2 @@
 # CustomSeekBar
-![image](https://github.com/jiaowenzheng/LineChart/raw/master/screenshots/1.png)
+![image](https://github.com/jiaowenzheng/CustomSeekBar/raw/master/screenshots/1.png)
